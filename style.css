@@ -1,28 +1,29 @@
+*{font-weight: 200;
+font-style: normal;
+background-color: antiquewhite;}
 #header {
   color: aqua;
-  background: black;
-}
+  background: black;}
+  width: 40%;
 #music {
   color: brown;
-  background: yellow;}
+  background: yellow;
+width: 40%;}
 .para {
-  color: black;
-  background: aquamarine;
-}
+  color: blue;}
 #walk { 
   color: white;
   background: purple;
-}
+  width: 20%;}
 .paraa {
-  color: black;
-  background: lightgreen;
-}
-#craft {
+  color: red;}
+  #craft {
   color: blue;
-}
+  background-color: lightcoral;
+  width: 30%;}
 .paraaa {
-  color: blueviolet
-}
+  color: blueviolet;}
+  #end{color: orange;}
 
 
 
