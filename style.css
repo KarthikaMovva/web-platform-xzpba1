@@ -3,8 +3,8 @@ font-style: normal;
 background-color: antiquewhite;}
 #header {
   color: aqua;
-  background: black;}
-  width: 40%;
+  background: black;
+  width: 50%;}
 #music {
   color: brown;
   background: yellow;
@@ -24,6 +24,7 @@ width: 40%;}
 .paraaa {
   color: blueviolet;}
   #end{color: orange;}
+  p{font-weight: 900;}
 
 
 
